@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+- 🎒 I'm a 4th year B.Sc student for computer science and mathematics in TAU.
+- 🔭 I’m currently working on AI research challenges and on [FuseMedML](https://github.com/BiomedSciAI/fuse-med-ml), an open-source library for accelerating AI research works in the fields of Healthcare and Life Science.
+- 🌱 On my free time I’m learning [Quantum Machine Learning](https://qiskit.org/learn/summer-school/quantum-computing-and-quantum-learning-2021/) and Medicinal Chemistry.
+
+
+Heres a views counter badge because it's cool:
+
+![](https://komarev.com/ghpvc/?username=sagipolaczek)
 <!--
 **SagiPolaczek/SagiPolaczek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
