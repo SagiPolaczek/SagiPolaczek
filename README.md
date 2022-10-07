@@ -5,7 +5,7 @@
 - 🌱 On my free time I’m learning [Quantum Machine Learning](https://qiskit.org/learn/summer-school/quantum-computing-and-quantum-learning-2021/) and Medicinal Chemistry.
 
 
-Heres a views counter badge because it's cool:
+Heres a profile views counter badge because it's cool:
 
 ![](https://komarev.com/ghpvc/?username=sagipolaczek)
 <!--
