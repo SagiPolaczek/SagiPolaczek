@@ -6,6 +6,7 @@
 - ✨ Hope for a quantum revolution
 
 Profile counter which most of the views are probably mine lol:
+
 ![](https://komarev.com/ghpvc/?username=sagipolaczek)
 <!--
 **SagiPolaczek/SagiPolaczek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
