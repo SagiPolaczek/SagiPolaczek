@@ -1,12 +1,11 @@
 ### Hi there 👋
 
-- 🎒 I'm a 4th year B.Sc student for Computer Science and Mathematics at TAU.
-- 🔭 Currently working on AI research challenges and on [FuseMedML](https://github.com/BiomedSciAI/fuse-med-ml) & [FuseDrug](https://github.com/BiomedSciAI/fuse-drug), an open-source libraries for accelerating AI research work in the fields of Healthcare and Life Science.
-- 🌱 (**Temporarily** Freezed!) On my free time I’m learning [Quantum Machine Learning](https://qiskit.org/learn/summer-school/quantum-computing-and-quantum-learning-2021/) and Medicinal Chemistry.
+- 🎒 I'm a 4th year B.Sc student for Computer Science and Mathematics at TAU (last semester)
+- 🔭 Deep Learning Engineer in Healthcare & Life Science
+- 💬 Interested in Deep Learning applications/theory.
+- ✨ Hope for a quantum revolution
 
-
-Heres a profile views counter badge because it's cool:
-
+Profile counter which most of the views are probably mine lol:
 ![](https://komarev.com/ghpvc/?username=sagipolaczek)
 <!--
 **SagiPolaczek/SagiPolaczek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
