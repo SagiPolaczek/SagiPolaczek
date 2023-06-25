@@ -1,9 +1,8 @@
 ### Hi there 👋
 
 - 🎒 I'm a 4th year B.Sc student for Computer Science and Mathematics at TAU (last semester)
-- 🔭 Deep Learning Engineer in Healthcare & Life Science
-- 💬 Interested in Deep Learning applications/theory.
-- ✨ Hope for a quantum revolution
+- 🔭 Deep Learning Engineer in Healthcare & Life Science @ IBM Research
+- 🏍️ Motorcycle addict
 
 Profile counter which most of the views are probably mine lol:
 
