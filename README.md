@@ -5,10 +5,9 @@
 - 🔭 Deep Learning Engineer in Healthcare & Life Science @ IBM Research
 - 🏍️ Motorcycle addict (Honda Rebel 500 owner <3)
 
-Feel free to contact!
+### Feel free to contact!
 
-Profile counter which most of the views are probably mine lol:
-
+##### Profile views counter which most of the views are probably mine lol:
 ![](https://komarev.com/ghpvc/?username=sagipolaczek)
 <!--
 **SagiPolaczek/SagiPolaczek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
