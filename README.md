@@ -1,9 +1,8 @@
 ### Hi there 👋
 
-- 🎒 I'm a 4th year B.Sc student for Computer Science and Mathematics at TAU (last semester)
-- 👨‍🏭 Investigating the security of LLMs (Uni Proj)
+- 🥷 Investigating security of LLMs
 - 🔭 Deep Learning Engineer in Healthcare & Life Science @ IBM Research
-- 🏍️ Motorcycle addict (Honda Rebel 500 owner <3)
+- 🏍️ Motorcycle addict - Honda Rebel 500
 
 ### Feel free to contact!
 
