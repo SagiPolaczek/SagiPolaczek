@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🥷 Investigating security of LLMs
+- 👾 M.Sc student @ Tel-Aviv University
 - 🔭 Deep Learning Engineer in Healthcare & Life Science @ IBM Research
 - 🏍️ Motorcycle addict - Honda Rebel 500
 
