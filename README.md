@@ -2,7 +2,6 @@
 
 - 👾 M.Sc student @ Tel-Aviv University
 - 🔭 Deep Learning Engineer in Healthcare & Life Science @ IBM Research
-- 🏍️ Motorcycle addict - Honda Rebel 500
 
 ### Feel free to contact!
 ![](https://komarev.com/ghpvc/?username=sagipolaczek)
