@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 👾 M.Sc student @ Tel-Aviv University
+- 👾 M.Sc student @ Tel-Aviv University, doing cool AI stuff in Computer Graphics
 - 🔭 Deep Learning Engineer in Healthcare & Life Science @ IBM Research
 
 ### Feel free to contact!
