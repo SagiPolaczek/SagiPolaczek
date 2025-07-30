@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Check out [**my probably outdated website**](https://sagipolaczek.github.io).
+Check out [**my (probably outdated) website**](https://sagipolaczek.github.io).
 
 ### Feel free to contact! e-mail/X preferably :)
 ![](https://komarev.com/ghpvc/?username=sagipolaczek)
