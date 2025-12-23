@@ -2,7 +2,6 @@
 
 Check out [**my (probably outdated) website**](https://sagipolaczek.github.io).
 
-### Feel free to contact! e-mail/X preferably :)
 ![](https://komarev.com/ghpvc/?username=sagipolaczek)
 <!--
 **SagiPolaczek/SagiPolaczek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
